@@ -1,1 +1,1 @@
-"# unity-mono-debug-patch" 
+# unity-mono-debug-patch
