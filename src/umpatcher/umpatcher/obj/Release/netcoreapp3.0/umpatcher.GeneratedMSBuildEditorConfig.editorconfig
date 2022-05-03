@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = UnityMonoDllSourceCodePatcher
+build_property.ProjectDir = D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\

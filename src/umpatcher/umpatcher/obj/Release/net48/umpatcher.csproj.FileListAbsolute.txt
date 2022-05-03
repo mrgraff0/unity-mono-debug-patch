@@ -1,0 +1,9 @@
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\bin\Release\net48\umpatcher.exe.config
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\bin\Release\net48\umpatcher.exe
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\bin\Release\net48\umpatcher.pdb
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\net48\umpatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\net48\umpatcher.AssemblyInfoInputs.cache
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\net48\umpatcher.AssemblyInfo.cs
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\net48\umpatcher.csproj.CoreCompileInputs.cache
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\net48\umpatcher.exe
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\net48\umpatcher.pdb

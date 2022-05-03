@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ECLgbWaDhgcJo0DBJ5sBrxYR+CB7SPAg3PAcu54w9Vvy9j461+gQjFCh52YfnjMjJr8BuTFWet8WD2lEmAs4Bw==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\MonoExtract\\Repos\\unity-mono-debug-patch\\src\\umpatcher\\umpatcher\\umpatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

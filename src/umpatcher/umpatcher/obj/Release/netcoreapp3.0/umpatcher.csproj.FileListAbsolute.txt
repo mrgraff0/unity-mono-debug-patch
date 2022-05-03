@@ -1,0 +1,14 @@
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\bin\Release\netcoreapp3.0\umpatcher.exe
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\bin\Release\netcoreapp3.0\umpatcher.deps.json
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\bin\Release\netcoreapp3.0\umpatcher.runtimeconfig.json
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\bin\Release\netcoreapp3.0\umpatcher.runtimeconfig.dev.json
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\bin\Release\netcoreapp3.0\umpatcher.dll
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\bin\Release\netcoreapp3.0\umpatcher.pdb
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\netcoreapp3.0\umpatcher.csproj.AssemblyReference.cache
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\netcoreapp3.0\umpatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\netcoreapp3.0\umpatcher.AssemblyInfoInputs.cache
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\netcoreapp3.0\umpatcher.AssemblyInfo.cs
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\netcoreapp3.0\umpatcher.csproj.CoreCompileInputs.cache
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\netcoreapp3.0\umpatcher.dll
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\netcoreapp3.0\umpatcher.pdb
+D:\Programming\MonoExtract\Repos\unity-mono-debug-patch\src\umpatcher\umpatcher\obj\Release\netcoreapp3.0\umpatcher.genruntimeconfig.cache
