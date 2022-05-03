@@ -38,8 +38,8 @@ namespace UnityMonoDllSourceCodePatcher {
 			int result = Exec.Run(repoPath, gitPath, "status", out var standardOutput, out _);
 			if (result != 0)
 				ThrowError($"Git status failed with error code {result}");
-			if (!standardOutput.Contains(Constants.GitCleanTreeMessage))
-				ThrowError("Git working tree is not clean. Check in the modified files.");
+			//if (!standardOutput.Contains(Constants.GitCleanTreeMessage))
+			//	ThrowError("Git working tree is not clean. Check in the modified files.");
 		}
 
 		public void SubmoduleInit() {
